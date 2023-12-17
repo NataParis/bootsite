@@ -1,0 +1,48 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.rownav {
+    background-color: rgb(63, 61, 61);
+    color: white;
+    text-decoration: none;
+    align-items: center;
+    font-size: 18px;
+    border-top-right-radius: 10%;
+    border-top-left-radius: 10%;
+}
+.nav {
+    display: flex;
+    }
+a:not(visited) {
+        color: white;
+    }
+.col-7 {
+    padding-left: 7rem;
+}
+.container {
+    width: 70vw;
+    margin-top: 1rem;
+    }
+.rowmain {
+    background-color: rgb(241, 238, 238);
+    padding-left: 2em;
+    height: 35vh;
+   }
+h1 {
+    font-family: Arial, sans-serif;
+    font-size: 48px;
+}
+.rowcards {
+    height: 35vh;
+   }
+.footer {
+    background-color: rgb(63, 61, 61);
+    color: white;
+   height: 80px;
+   margin-top: 5rem;
+   text-align: center;
+   align-items: center;
+   padding-top: 2em;
+   }
